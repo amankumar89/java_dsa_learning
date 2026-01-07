@@ -4,6 +4,7 @@ This repository contains my structured journey of learning **Java Programming** 
 
 ## 📌 Topics Covered
 - Java Basics
+- Patterns Code
 <!-- & OOP
 - Arrays & Strings
 - Recursion & Backtracking
