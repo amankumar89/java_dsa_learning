@@ -1,3 +1,4 @@
+package f_2d_arrays;
 
 public class SpiralPrint {
 
